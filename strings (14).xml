@@ -1,0 +1,35 @@
+<resources>
+    <string name="epg_title">Guide</string>
+    <string name="epg_now">Now</string>
+    <string name="epg_refresh">Refresh guide</string>
+    <string name="epg_all_channels">All channels</string>
+    <string name="epg_choose_category">Choose category</string>
+    <string name="epg_refreshing">Updating… %1$d programs</string>
+    <string name="epg_updated">Guide updated (%1$d programs)</string>
+    <string name="epg_partial">%1$d programs loaded, %2$d source(s) failed</string>
+    <string name="epg_no_source">No guide source for this playlist. Add an XMLTV URL in the playlist settings.</string>
+    <string name="epg_no_info">No program information</string>
+    <string name="epg_no_playlist_title">No playlist yet</string>
+    <string name="epg_no_playlist_message">Add a source to see the TV guide.</string>
+    <string name="epg_add_playlist">Add playlist</string>
+    <string name="epg_no_channels">No channels to show.</string>
+    <string name="epg_load_error">Couldn’t load channels</string>
+    <string name="epg_retry">Retry</string>
+
+    <string name="dlg_no_description">No description available.</string>
+    <string name="dlg_watch_live">Watch live</string>
+    <string name="dlg_watch_from_start">Watch from the start (catch-up)</string>
+    <string name="dlg_remind">Remind me</string>
+    <string name="dlg_cancel_reminder">Cancel reminder</string>
+    <string name="dlg_close">Close</string>
+    <string name="dlg_reminder_set">Reminder set</string>
+
+    <string name="dlg_record">Record</string>
+    <string name="dlg_cancel_recording">Cancel recording</string>
+    <string name="dlg_stop_recording">Stop recording</string>
+    <string name="rec_scheduled">Recording scheduled</string>
+    <string name="rec_scheduled_conflict">Recording scheduled. It overlaps %1$d other recording(s); your provider may limit simultaneous streams.</string>
+    <string name="rec_already">Already scheduled</string>
+    <string name="rec_ended">This program has already ended</string>
+    <string name="rec_too_long">Too long to record (maximum 12 hours)</string>
+</resources>

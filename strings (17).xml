@@ -1,0 +1,40 @@
+<resources>
+    <string name="sel_all">All channels</string>
+    <string name="sel_favorites">Favorites</string>
+    <string name="sel_recent">Recently watched</string>
+    <string name="show_hidden">Show hidden categories (%1$d)</string>
+    <string name="hide_hidden">Hide hidden categories</string>
+    <string name="hidden_suffix">%1$s (hidden)</string>
+
+    <string name="search_channels">Search channels</string>
+    <string name="view_list">List view</string>
+    <string name="view_grid">Grid view</string>
+
+    <string name="no_playlist_title">No playlist yet</string>
+    <string name="no_playlist_message">Add an M3U, Xtream Codes or Stalker source to start watching.</string>
+    <string name="add_playlist">Add playlist</string>
+
+    <string name="empty_no_match">No channels match “%1$s”</string>
+    <string name="empty_category">No channels here yet. Try refreshing the playlist in Settings.</string>
+    <string name="empty_favorites">No favorites yet. Long-press a channel (or press Menu) and choose Add to favorites.</string>
+    <string name="empty_recent">Channels you watch will show up here.</string>
+    <string name="load_error">Couldn’t load channels</string>
+    <string name="retry">Retry</string>
+
+    <string name="action_add_favorite">Add to favorites</string>
+    <string name="action_remove_favorite">Remove from favorites</string>
+    <string name="action_move_up">Move up</string>
+    <string name="action_move_down">Move down</string>
+    <string name="action_close">Close</string>
+    <string name="action_hide_category">Hide category</string>
+    <string name="action_show_category">Show category</string>
+    <string name="choose_playlist">Choose playlist</string>
+
+    <string name="pin_required">Enter PIN to continue</string>
+    <string name="action_lock_channel">Lock channel (PIN)</string>
+    <string name="action_unlock_channel">Unlock channel</string>
+    <string name="action_lock_category">Lock category (PIN)</string>
+    <string name="action_unlock_category">Unlock category</string>
+    <string name="need_pin_title">Set a PIN first</string>
+    <string name="need_pin_message">Locks only work once you have a PIN. Open Settings › Parental controls › Set PIN.</string>
+</resources>

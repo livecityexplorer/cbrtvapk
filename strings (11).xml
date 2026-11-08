@@ -1,0 +1,21 @@
+<resources>
+    <string name="all_movies">All movies</string>
+    <string name="search_movies">Search movies</string>
+    <string name="continue_watching">Continue watching</string>
+    <string name="movies_empty">No movies in this category yet. Try refreshing the playlist in Settings.</string>
+    <string name="movies_no_match">No movies match “%s”</string>
+    <string name="load_error">Couldn’t load movies</string>
+    <string name="retry">Retry</string>
+    <string name="no_playlist_title">No playlist yet</string>
+    <string name="no_playlist_message">Add an Xtream Codes source to browse its movies.</string>
+    <string name="add_playlist">Add playlist</string>
+
+    <string name="movie_missing">This movie is no longer available.</string>
+    <string name="loading_details">Loading details…</string>
+    <string name="details_failed">Couldn’t load all details: %1$s</string>
+    <string name="no_plot">No description available.</string>
+    <string name="cast_label">Cast: %1$s</string>
+    <string name="play">Play</string>
+    <string name="resume_from">Resume from %1$s</string>
+    <string name="start_over">Start over</string>
+</resources>

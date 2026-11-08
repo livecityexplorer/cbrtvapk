@@ -1,0 +1,25 @@
+<resources>
+    <string name="all_series">All series</string>
+    <string name="search_series">Search series</string>
+    <string name="continue_watching">Continue watching</string>
+    <string name="series_empty">No series in this category yet. Try refreshing the playlist in Settings.</string>
+    <string name="series_no_match">No series match “%s”</string>
+    <string name="load_error">Couldn’t load series</string>
+    <string name="retry">Retry</string>
+    <string name="no_playlist_title">No playlist yet</string>
+    <string name="no_playlist_message">Add an Xtream Codes source to browse its series.</string>
+    <string name="add_playlist">Add playlist</string>
+
+    <string name="series_missing">This series is no longer available.</string>
+    <string name="loading_details">Loading episodes…</string>
+    <string name="details_failed">Couldn’t load all details: %1$s</string>
+    <string name="no_plot">No description available.</string>
+    <string name="cast_label">Cast: %1$s</string>
+    <string name="no_episodes">No episodes found for this series.</string>
+    <string name="continue_episode">Continue · %1$s</string>
+    <string name="play_episode">Play · %1$s</string>
+    <string name="season_label">Season %1$d</string>
+    <string name="episode_title">%1$d · %2$s</string>
+    <string name="watched">Watched</string>
+    <string name="minutes_short">%1$d min</string>
+</resources>

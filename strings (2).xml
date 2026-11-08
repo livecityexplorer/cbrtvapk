@@ -1,0 +1,27 @@
+<resources>
+    <string name="recordings_title">Recordings</string>
+    <string name="recordings_empty">No recordings yet. Open a program in the Guide and choose Record, or press Record while watching a channel.</string>
+    <string name="storage_label">Storage: %1$s</string>
+    <string name="storage_app">App storage</string>
+    <string name="choose_folder">Choose folder</string>
+    <string name="reset_folder">Use app storage</string>
+    <string name="no_folder_picker">This device has no folder picker.</string>
+    <string name="exact_alarm_hint">Allow “Alarms &amp; reminders” so scheduled recordings start exactly on time.</string>
+    <string name="exact_alarm_allow">Allow</string>
+
+    <string name="section_recording">Recording now</string>
+    <string name="section_scheduled">Scheduled</string>
+    <string name="section_completed">Recorded</string>
+    <string name="section_other">Failed or cancelled</string>
+
+    <string name="status_recording">● Recording · %1$s</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_failed">Failed</string>
+    <string name="status_cancelled">Cancelled</string>
+
+    <string name="action_play">Play</string>
+    <string name="action_stop">Stop recording</string>
+    <string name="action_cancel">Cancel recording</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_close">Close</string>
+</resources>

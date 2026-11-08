@@ -1,0 +1,151 @@
+<resources>
+    <string name="settings_title">Settings</string>
+    <string name="settings_playlists">Playlists</string>
+    <string name="settings_playlists_desc">Add, edit, refresh and remove your sources</string>
+
+    <string name="playlists_title">Playlists</string>
+    <string name="add_playlist">Add playlist</string>
+    <string name="edit_playlist">Edit playlist</string>
+    <string name="playlists_empty">No playlists yet. Add an M3U, Xtream Codes or Stalker source to get started.</string>
+    <string name="refresh">Refresh</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="test_connection">Test connection</string>
+    <string name="delete_title">Delete playlist?</string>
+    <string name="delete_message">“%1$s” and all its channels, movies and series will be removed from this device.</string>
+
+    <string name="kind_m3u_url">M3U URL</string>
+    <string name="kind_m3u_file">M3U file</string>
+    <string name="kind_xtream">Xtream Codes</string>
+    <string name="kind_stalker">Stalker portal</string>
+    <string name="type_m3u">M3U</string>
+    <string name="type_xtream">Xtream Codes</string>
+    <string name="type_stalker">Stalker</string>
+
+    <string name="field_name">Name</string>
+    <string name="field_playlist_url">Playlist URL</string>
+    <string name="field_server_url">Server URL (e.g. http://host:8080)</string>
+    <string name="field_portal_url">Portal URL (e.g. http://host/c/)</string>
+    <string name="field_username">Username</string>
+    <string name="field_password">Password</string>
+    <string name="field_mac">MAC address</string>
+    <string name="field_epg">EPG (XMLTV) URLs, one per line (optional)</string>
+    <string name="choose_file">Choose file</string>
+    <string name="no_file">No file selected</string>
+
+    <string name="error_required">Required</string>
+    <string name="error_invalid_url">Enter a valid http(s) address</string>
+    <string name="error_invalid_mac">Use the format 00:1A:79:AA:BB:CC</string>
+
+    <string name="test_running">Testing…</string>
+    <string name="test_ok">Connection successful</string>
+    <string name="test_status">Status: %1$s</string>
+    <string name="test_expires">Expires %1$s</string>
+    <string name="test_connections">Up to %1$d simultaneous connections</string>
+
+    <string name="stage_connecting">Connecting…</string>
+    <string name="stage_live">Loading channels… %1$d</string>
+    <string name="stage_movies">Loading movies…</string>
+    <string name="stage_series">Loading series…</string>
+    <string name="stage_saving">Saving %1$d channels…</string>
+    <string name="sync_done">Synced: %1$d channels, %2$d movies, %3$d series</string>
+    <string name="last_updated">Updated %1$s</string>
+    <string name="never_synced">Not synced yet</string>
+
+    <string name="close">Close</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="never">never</string>
+
+    <string name="kind_live">Live TV</string>
+    <string name="kind_movies">Movies</string>
+    <string name="kind_series">Series</string>
+
+    <string name="sec_epg">Program guide (EPG)</string>
+    <string name="epg_auto">Automatic refresh</string>
+    <string name="epg_interval">Refresh interval</string>
+    <string name="every_hours">Every %1$d hours</string>
+    <string name="epg_refresh_now">Refresh guide now</string>
+    <string name="epg_last">Last refreshed: %1$s</string>
+
+    <string name="sec_playback">Playback</string>
+    <string name="pb_buffer">Buffer size</string>
+    <string name="buf_small">Small — fastest channel start</string>
+    <string name="buf_medium">Medium — balanced</string>
+    <string name="buf_large">Large — best for unstable connections</string>
+    <string name="pb_decoder">Video decoder</string>
+    <string name="dec_hw">Hardware (recommended)</string>
+    <string name="dec_sw">Software (try if video is garbled)</string>
+    <string name="pb_aspect">Default aspect ratio</string>
+    <string name="set_aspect_fit">Fit</string>
+    <string name="set_aspect_zoom">Zoom</string>
+    <string name="set_aspect_stretch">Stretch</string>
+    <string name="set_aspect_16_9">16:9</string>
+    <string name="set_aspect_4_3">4:3</string>
+    <string name="pb_sub_size">Subtitle size: %1$d sp</string>
+    <string name="pb_sub_color">Subtitle colour</string>
+    <string name="col_white">White</string>
+    <string name="col_yellow">Yellow</string>
+    <string name="col_green">Green</string>
+    <string name="col_cyan">Cyan</string>
+
+    <string name="sec_appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_amoled">AMOLED black</string>
+
+    <string name="sec_parental">Parental controls</string>
+    <string name="pin_set">Set PIN</string>
+    <string name="pin_change">Change PIN</string>
+    <string name="pin_remove">Remove PIN</string>
+    <string name="pin_is_set">A PIN is set</string>
+    <string name="pin_not_set">No PIN yet — locks are inactive until you set one</string>
+    <string name="pin_lock_now">Lock now</string>
+    <string name="pin_lock_now_desc">Ask for the PIN again immediately</string>
+    <string name="pin_enter_current">Enter current PIN</string>
+    <string name="pin_enter_new">Choose a new PIN</string>
+    <string name="pin_rules">4 to 8 digits</string>
+    <string name="pin_confirm">Repeat the new PIN</string>
+    <string name="pin_mismatch">PINs do not match</string>
+    <string name="locks_manage">Locked categories</string>
+    <string name="locks_manage_desc">Choose which categories need the PIN</string>
+    <string name="locks_need_pin">Set a PIN first</string>
+    <string name="hide_adult">Hide adult categories</string>
+    <string name="hide_adult_desc">hides categories with adult-looking names</string>
+    <string name="locks_title">Locked categories</string>
+    <string name="locks_hint">Locked categories (and their channels, movies and series) ask for the PIN before playing. You can also lock a single channel from its menu in Live TV.</string>
+    <string name="locks_empty">No categories yet. Add and refresh a playlist first.</string>
+    <string name="locks_locked">Locked</string>
+    <string name="locks_unlocked">Unlocked</string>
+
+    <string name="sec_backup">Backup</string>
+    <string name="backup_export">Export backup</string>
+    <string name="backup_export_desc">Save settings and playlists to a JSON file (contains playlist passwords — keep it private)</string>
+    <string name="backup_import">Restore backup</string>
+    <string name="backup_import_desc">Load settings and playlists from a backup file</string>
+    <string name="restore_title">Restore backup?</string>
+    <string name="restore_message">Playlists from the file are added (duplicates are skipped) and your settings are replaced with the saved ones. Your PIN is not affected.</string>
+    <string name="restore_confirm">Restore</string>
+
+    <string name="sec_about">About</string>
+    <string name="about_title">About &amp; legal</string>
+    <string name="about_desc">Version and legal notice</string>
+    <string name="about_version">Version %1$s</string>
+    <string name="about_disclaimer">This app is a media player only. It provides no channels or content. You are solely responsible for the sources you add and for ensuring you have the legal right to access them.</string>
+
+    <string name="msg_pin_saved">PIN saved</string>
+    <string name="msg_pin_removed">PIN removed</string>
+    <string name="msg_locked">Locked</string>
+    <string name="msg_set_pin_first">Set a PIN first</string>
+    <string name="msg_no_playlists">Add a playlist first</string>
+    <string name="msg_guide_ok">Program guide updated</string>
+    <string name="msg_guide_partial">Guide updated, but %1$d playlist(s) failed</string>
+    <string name="msg_export_ok">Backup saved</string>
+    <string name="msg_export_failed">Couldn’t save the backup file</string>
+    <string name="msg_import_ok">Restored: %1$d playlist(s) added, %2$d skipped</string>
+    <string name="msg_import_invalid">That file is not a valid IPTV Player backup</string>
+    <string name="msg_import_failed">Couldn’t read the backup file</string>
+    <string name="msg_no_file_picker">No file picker found on this device</string>
+</resources>

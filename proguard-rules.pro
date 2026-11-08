@@ -1,0 +1,6 @@
+-keepattributes *Annotation*, Signature, InnerClasses
+-keep class kotlinx.serialization.** { *; }
+-keepclassmembers class **$$serializer { *; }
+-keepclasseswithmembers class * { @kotlinx.serialization.Serializable <methods>; }
+-dontwarn org.conscrypt.**
+-dontwarn okhttp3.internal.platform.**

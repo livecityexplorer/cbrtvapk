@@ -1,0 +1,24 @@
+<resources>
+    <string name="search_hint">Search channels, movies, series and programs</string>
+    <string name="search_idle">Type at least 2 characters. Several words must all match, in any order.</string>
+    <string name="searching">Searching…</string>
+    <string name="search_no_results">No results for “%1$s”</string>
+    <string name="search_error">Search failed: %1$s</string>
+    <string name="search_clear">Clear</string>
+    <string name="no_playlist_title">No playlist yet</string>
+    <string name="no_playlist_message">Add a source to search its channels and titles.</string>
+    <string name="add_playlist">Add playlist</string>
+
+    <string name="section_channels">Channels (%1$d)</string>
+    <string name="section_programs">Programs on the guide (%1$d)</string>
+    <string name="section_movies">Movies (%1$d)</string>
+    <string name="section_series">Series (%1$d)</string>
+    <string name="live_now">LIVE NOW</string>
+
+    <string name="dlg_watch_live">Watch live</string>
+    <string name="dlg_remind">Remind me</string>
+    <string name="dlg_cancel_reminder">Cancel reminder</string>
+    <string name="dlg_reminder_set">Reminder set</string>
+    <string name="dlg_no_description">No description available.</string>
+    <string name="dlg_close">Close</string>
+</resources>
